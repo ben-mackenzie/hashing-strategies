@@ -1,0 +1,2100 @@
+Before linear key = 9936 got value = 1
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9936 got value(*p) = 1
+
+
+Before quadratic key = 9936 got value = 1
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9936 got value(*pq) = 1
+
+
+Before double hashing key = 9936 got value = 1
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9936 got value(*pdh) = 1
+
+
+Before linear key = 9905 got value = 2
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9905 got value(*p) = 2
+
+
+Before quadratic key = 9905 got value = 2
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9905 got value(*pq) = 2
+
+
+Before double hashing key = 9905 got value = 2
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9905 got value(*pdh) = 2
+
+
+Before linear key = 9870 got value = 3
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9870 got value(*p) = 3
+
+
+Before quadratic key = 9870 got value = 3
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9870 got value(*pq) = 3
+
+
+Before double hashing key = 9870 got value = 3
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9870 got value(*pdh) = 3
+
+
+Before linear key = 9827 got value = 4
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9827 got value(*p) = 4
+
+
+Before quadratic key = 9827 got value = 4
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9827 got value(*pq) = 4
+
+
+Before double hashing key = 9827 got value = 4
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9827 got value(*pdh) = 4
+
+
+Before linear key = 9802 got value = 5
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9802 got value(*p) = 5
+
+
+Before quadratic key = 9802 got value = 5
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9802 got value(*pq) = 5
+
+
+Before double hashing key = 9802 got value = 5
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9802 got value(*pdh) = 5
+
+
+Before linear key = 9732 got value = 6
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9732 got value(*p) = 6
+
+
+Before quadratic key = 9732 got value = 6
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9732 got value(*pq) = 6
+
+
+Before double hashing key = 9732 got value = 6
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9732 got value(*pdh) = 6
+
+
+Before linear key = 9724 got value = 7
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9724 got value(*p) = 7
+
+
+Before quadratic key = 9724 got value = 7
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9724 got value(*pq) = 7
+
+
+Before double hashing key = 9724 got value = 7
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9724 got value(*pdh) = 7
+
+
+Before linear key = 9678 got value = 8
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9678 got value(*p) = 8
+
+
+Before quadratic key = 9678 got value = 8
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9678 got value(*pq) = 8
+
+
+Before double hashing key = 9678 got value = 8
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9678 got value(*pdh) = 8
+
+
+Before linear key = 9677 got value = 9
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 0
+3.after get LinearProbingHash.collisions = 0
+After linear key = 9677 got value(*p) = 9
+
+
+Before quadratic key = 9677 got value = 9
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 0
+3.after get QuadraticProbingHash.collisions = 0
+After quadratic key = 9677 got value(*pq) = 9
+
+
+Before double hashing key = 9677 got value = 9
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 0
+3.after get DoubleHashingProbingHash.collisions = 0
+After double hashing key = 9677 got value(*pdh) = 9
+
+
+Before linear key = 9611 got value = 10
+1.before put LinearProbingHash.collisions = 0
+2.after put LinearProbingHash.collisions = 1
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9611 got value(*p) = 10
+
+
+Before quadratic key = 9611 got value = 10
+1.before put QuadraticProbingHash.collisions = 0
+2.after put QuadraticProbingHash.collisions = 1
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9611 got value(*pq) = 10
+
+
+Before double hashing key = 9611 got value = 10
+1.before put DoubleHashingProbingHash.collisions = 0
+2.after put DoubleHashingProbingHash.collisions = 1
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9611 got value(*pdh) = 10
+
+
+Before linear key = 9530 got value = 11
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9530 got value(*p) = 11
+
+
+Before quadratic key = 9530 got value = 11
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9530 got value(*pq) = 11
+
+
+Before double hashing key = 9530 got value = 11
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9530 got value(*pdh) = 11
+
+
+Before linear key = 9473 got value = 12
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9473 got value(*p) = 12
+
+
+Before quadratic key = 9473 got value = 12
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9473 got value(*pq) = 12
+
+
+Before double hashing key = 9473 got value = 12
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9473 got value(*pdh) = 12
+
+
+Before linear key = 9438 got value = 13
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9438 got value(*p) = 13
+
+
+Before quadratic key = 9438 got value = 13
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9438 got value(*pq) = 13
+
+
+Before double hashing key = 9438 got value = 13
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9438 got value(*pdh) = 13
+
+
+Before linear key = 9351 got value = 14
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9351 got value(*p) = 14
+
+
+Before quadratic key = 9351 got value = 14
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9351 got value(*pq) = 14
+
+
+Before double hashing key = 9351 got value = 14
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9351 got value(*pdh) = 14
+
+
+Before linear key = 9331 got value = 15
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9331 got value(*p) = 15
+
+
+Before quadratic key = 9331 got value = 15
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9331 got value(*pq) = 15
+
+
+Before double hashing key = 9331 got value = 15
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9331 got value(*pdh) = 15
+
+
+Before linear key = 9248 got value = 16
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9248 got value(*p) = 16
+
+
+Before quadratic key = 9248 got value = 16
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9248 got value(*pq) = 16
+
+
+Before double hashing key = 9248 got value = 16
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9248 got value(*pdh) = 16
+
+
+Before linear key = 9171 got value = 17
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9171 got value(*p) = 17
+
+
+Before quadratic key = 9171 got value = 17
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9171 got value(*pq) = 17
+
+
+Before double hashing key = 9171 got value = 17
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9171 got value(*pdh) = 17
+
+
+Before linear key = 9138 got value = 18
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9138 got value(*p) = 18
+
+
+Before quadratic key = 9138 got value = 18
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9138 got value(*pq) = 18
+
+
+Before double hashing key = 9138 got value = 18
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9138 got value(*pdh) = 18
+
+
+Before linear key = 9096 got value = 19
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9096 got value(*p) = 19
+
+
+Before quadratic key = 9096 got value = 19
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9096 got value(*pq) = 19
+
+
+Before double hashing key = 9096 got value = 19
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9096 got value(*pdh) = 19
+
+
+Before linear key = 9031 got value = 20
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9031 got value(*p) = 20
+
+
+Before quadratic key = 9031 got value = 20
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9031 got value(*pq) = 20
+
+
+Before double hashing key = 9031 got value = 20
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9031 got value(*pdh) = 20
+
+
+Before linear key = 9025 got value = 21
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 9025 got value(*p) = 21
+
+
+Before quadratic key = 9025 got value = 21
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 9025 got value(*pq) = 21
+
+
+Before double hashing key = 9025 got value = 21
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 9025 got value(*pdh) = 21
+
+
+Before linear key = 8953 got value = 22
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 8953 got value(*p) = 22
+
+
+Before quadratic key = 8953 got value = 22
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 8953 got value(*pq) = 22
+
+
+Before double hashing key = 8953 got value = 22
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 8953 got value(*pdh) = 22
+
+
+Before linear key = 8890 got value = 23
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 8890 got value(*p) = 23
+
+
+Before quadratic key = 8890 got value = 23
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 8890 got value(*pq) = 23
+
+
+Before double hashing key = 8890 got value = 23
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 8890 got value(*pdh) = 23
+
+
+Before linear key = 8856 got value = 24
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 8856 got value(*p) = 24
+
+
+Before quadratic key = 8856 got value = 24
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 8856 got value(*pq) = 24
+
+
+Before double hashing key = 8856 got value = 24
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 8856 got value(*pdh) = 24
+
+
+Before linear key = 8816 got value = 25
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 2
+3.after get LinearProbingHash.collisions = 2
+After linear key = 8816 got value(*p) = 25
+
+
+Before quadratic key = 8816 got value = 25
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 2
+3.after get QuadraticProbingHash.collisions = 2
+After quadratic key = 8816 got value(*pq) = 25
+
+
+Before double hashing key = 8816 got value = 25
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 2
+3.after get DoubleHashingProbingHash.collisions = 2
+After double hashing key = 8816 got value(*pdh) = 25
+
+
+Before linear key = 8722 got value = 26
+1.before put LinearProbingHash.collisions = 2
+2.after put LinearProbingHash.collisions = 5
+3.after get LinearProbingHash.collisions = 8
+After linear key = 8722 got value(*p) = 26
+
+
+Before quadratic key = 8722 got value = 26
+1.before put QuadraticProbingHash.collisions = 2
+2.after put QuadraticProbingHash.collisions = 4
+3.after get QuadraticProbingHash.collisions = 6
+After quadratic key = 8722 got value(*pq) = 26
+
+
+Before double hashing key = 8722 got value = 26
+1.before put DoubleHashingProbingHash.collisions = 2
+2.after put DoubleHashingProbingHash.collisions = 3
+3.after get DoubleHashingProbingHash.collisions = 4
+After double hashing key = 8722 got value(*pdh) = 26
+
+
+Before linear key = 8682 got value = 27
+1.before put LinearProbingHash.collisions = 8
+2.after put LinearProbingHash.collisions = 8
+3.after get LinearProbingHash.collisions = 8
+After linear key = 8682 got value(*p) = 27
+
+
+Before quadratic key = 8682 got value = 27
+1.before put QuadraticProbingHash.collisions = 6
+2.after put QuadraticProbingHash.collisions = 6
+3.after get QuadraticProbingHash.collisions = 6
+After quadratic key = 8682 got value(*pq) = 27
+
+
+Before double hashing key = 8682 got value = 27
+1.before put DoubleHashingProbingHash.collisions = 4
+2.after put DoubleHashingProbingHash.collisions = 4
+3.after get DoubleHashingProbingHash.collisions = 4
+After double hashing key = 8682 got value(*pdh) = 27
+
+
+Before linear key = 8610 got value = 28
+1.before put LinearProbingHash.collisions = 8
+2.after put LinearProbingHash.collisions = 8
+3.after get LinearProbingHash.collisions = 8
+After linear key = 8610 got value(*p) = 28
+
+
+Before quadratic key = 8610 got value = 28
+1.before put QuadraticProbingHash.collisions = 6
+2.after put QuadraticProbingHash.collisions = 6
+3.after get QuadraticProbingHash.collisions = 6
+After quadratic key = 8610 got value(*pq) = 28
+
+
+Before double hashing key = 8610 got value = 28
+1.before put DoubleHashingProbingHash.collisions = 4
+2.after put DoubleHashingProbingHash.collisions = 4
+3.after get DoubleHashingProbingHash.collisions = 4
+After double hashing key = 8610 got value(*pdh) = 28
+
+
+Before linear key = 8600 got value = 29
+1.before put LinearProbingHash.collisions = 8
+2.after put LinearProbingHash.collisions = 8
+3.after get LinearProbingHash.collisions = 8
+After linear key = 8600 got value(*p) = 29
+
+
+Before quadratic key = 8600 got value = 29
+1.before put QuadraticProbingHash.collisions = 6
+2.after put QuadraticProbingHash.collisions = 6
+3.after get QuadraticProbingHash.collisions = 6
+After quadratic key = 8600 got value(*pq) = 29
+
+
+Before double hashing key = 8600 got value = 29
+1.before put DoubleHashingProbingHash.collisions = 4
+2.after put DoubleHashingProbingHash.collisions = 4
+3.after get DoubleHashingProbingHash.collisions = 4
+After double hashing key = 8600 got value(*pdh) = 29
+
+
+Before linear key = 8593 got value = 30
+1.before put LinearProbingHash.collisions = 8
+2.after put LinearProbingHash.collisions = 8
+3.after get LinearProbingHash.collisions = 8
+After linear key = 8593 got value(*p) = 30
+
+
+Before quadratic key = 8593 got value = 30
+1.before put QuadraticProbingHash.collisions = 6
+2.after put QuadraticProbingHash.collisions = 6
+3.after get QuadraticProbingHash.collisions = 6
+After quadratic key = 8593 got value(*pq) = 30
+
+
+Before double hashing key = 8593 got value = 30
+1.before put DoubleHashingProbingHash.collisions = 4
+2.after put DoubleHashingProbingHash.collisions = 4
+3.after get DoubleHashingProbingHash.collisions = 4
+After double hashing key = 8593 got value(*pdh) = 30
+
+
+Before linear key = 8559 got value = 31
+1.before put LinearProbingHash.collisions = 8
+2.after put LinearProbingHash.collisions = 8
+3.after get LinearProbingHash.collisions = 8
+After linear key = 8559 got value(*p) = 31
+
+
+Before quadratic key = 8559 got value = 31
+1.before put QuadraticProbingHash.collisions = 6
+2.after put QuadraticProbingHash.collisions = 6
+3.after get QuadraticProbingHash.collisions = 6
+After quadratic key = 8559 got value(*pq) = 31
+
+
+Before double hashing key = 8559 got value = 31
+1.before put DoubleHashingProbingHash.collisions = 4
+2.after put DoubleHashingProbingHash.collisions = 4
+3.after get DoubleHashingProbingHash.collisions = 4
+After double hashing key = 8559 got value(*pdh) = 31
+
+
+Before linear key = 8511 got value = 32
+1.before put LinearProbingHash.collisions = 8
+2.after put LinearProbingHash.collisions = 8
+3.after get LinearProbingHash.collisions = 8
+After linear key = 8511 got value(*p) = 32
+
+
+Before quadratic key = 8511 got value = 32
+1.before put QuadraticProbingHash.collisions = 6
+2.after put QuadraticProbingHash.collisions = 6
+3.after get QuadraticProbingHash.collisions = 6
+After quadratic key = 8511 got value(*pq) = 32
+
+
+Before double hashing key = 8511 got value = 32
+1.before put DoubleHashingProbingHash.collisions = 4
+2.after put DoubleHashingProbingHash.collisions = 4
+3.after get DoubleHashingProbingHash.collisions = 4
+After double hashing key = 8511 got value(*pdh) = 32
+
+
+Before linear key = 8465 got value = 33
+1.before put LinearProbingHash.collisions = 8
+2.after put LinearProbingHash.collisions = 10
+3.after get LinearProbingHash.collisions = 12
+After linear key = 8465 got value(*p) = 33
+
+
+Before quadratic key = 8465 got value = 33
+1.before put QuadraticProbingHash.collisions = 6
+2.after put QuadraticProbingHash.collisions = 8
+3.after get QuadraticProbingHash.collisions = 10
+After quadratic key = 8465 got value(*pq) = 33
+
+
+Before double hashing key = 8465 got value = 33
+1.before put DoubleHashingProbingHash.collisions = 4
+2.after put DoubleHashingProbingHash.collisions = 5
+3.after get DoubleHashingProbingHash.collisions = 6
+After double hashing key = 8465 got value(*pdh) = 33
+
+
+Before linear key = 8416 got value = 34
+1.before put LinearProbingHash.collisions = 12
+2.after put LinearProbingHash.collisions = 12
+3.after get LinearProbingHash.collisions = 12
+After linear key = 8416 got value(*p) = 34
+
+
+Before quadratic key = 8416 got value = 34
+1.before put QuadraticProbingHash.collisions = 10
+2.after put QuadraticProbingHash.collisions = 10
+3.after get QuadraticProbingHash.collisions = 10
+After quadratic key = 8416 got value(*pq) = 34
+
+
+Before double hashing key = 8416 got value = 34
+1.before put DoubleHashingProbingHash.collisions = 6
+2.after put DoubleHashingProbingHash.collisions = 6
+3.after get DoubleHashingProbingHash.collisions = 6
+After double hashing key = 8416 got value(*pdh) = 34
+
+
+Before linear key = 8366 got value = 35
+1.before put LinearProbingHash.collisions = 12
+2.after put LinearProbingHash.collisions = 12
+3.after get LinearProbingHash.collisions = 12
+After linear key = 8366 got value(*p) = 35
+
+
+Before quadratic key = 8366 got value = 35
+1.before put QuadraticProbingHash.collisions = 10
+2.after put QuadraticProbingHash.collisions = 10
+3.after get QuadraticProbingHash.collisions = 10
+After quadratic key = 8366 got value(*pq) = 35
+
+
+Before double hashing key = 8366 got value = 35
+1.before put DoubleHashingProbingHash.collisions = 6
+2.after put DoubleHashingProbingHash.collisions = 6
+3.after get DoubleHashingProbingHash.collisions = 6
+After double hashing key = 8366 got value(*pdh) = 35
+
+
+Before linear key = 8354 got value = 36
+1.before put LinearProbingHash.collisions = 12
+2.after put LinearProbingHash.collisions = 12
+3.after get LinearProbingHash.collisions = 12
+After linear key = 8354 got value(*p) = 36
+
+
+Before quadratic key = 8354 got value = 36
+1.before put QuadraticProbingHash.collisions = 10
+2.after put QuadraticProbingHash.collisions = 10
+3.after get QuadraticProbingHash.collisions = 10
+After quadratic key = 8354 got value(*pq) = 36
+
+
+Before double hashing key = 8354 got value = 36
+1.before put DoubleHashingProbingHash.collisions = 6
+2.after put DoubleHashingProbingHash.collisions = 6
+3.after get DoubleHashingProbingHash.collisions = 6
+After double hashing key = 8354 got value(*pdh) = 36
+
+
+Before linear key = 8299 got value = 37
+1.before put LinearProbingHash.collisions = 12
+2.after put LinearProbingHash.collisions = 14
+3.after get LinearProbingHash.collisions = 16
+After linear key = 8299 got value(*p) = 37
+
+
+Before quadratic key = 8299 got value = 37
+1.before put QuadraticProbingHash.collisions = 10
+2.after put QuadraticProbingHash.collisions = 12
+3.after get QuadraticProbingHash.collisions = 14
+After quadratic key = 8299 got value(*pq) = 37
+
+
+Before double hashing key = 8299 got value = 37
+1.before put DoubleHashingProbingHash.collisions = 6
+2.after put DoubleHashingProbingHash.collisions = 7
+3.after get DoubleHashingProbingHash.collisions = 8
+After double hashing key = 8299 got value(*pdh) = 37
+
+
+Before linear key = 8233 got value = 38
+1.before put LinearProbingHash.collisions = 16
+2.after put LinearProbingHash.collisions = 16
+3.after get LinearProbingHash.collisions = 16
+After linear key = 8233 got value(*p) = 38
+
+
+Before quadratic key = 8233 got value = 38
+1.before put QuadraticProbingHash.collisions = 14
+2.after put QuadraticProbingHash.collisions = 14
+3.after get QuadraticProbingHash.collisions = 14
+After quadratic key = 8233 got value(*pq) = 38
+
+
+Before double hashing key = 8233 got value = 38
+1.before put DoubleHashingProbingHash.collisions = 8
+2.after put DoubleHashingProbingHash.collisions = 8
+3.after get DoubleHashingProbingHash.collisions = 8
+After double hashing key = 8233 got value(*pdh) = 38
+
+
+Before linear key = 8199 got value = 39
+1.before put LinearProbingHash.collisions = 16
+2.after put LinearProbingHash.collisions = 16
+3.after get LinearProbingHash.collisions = 16
+After linear key = 8199 got value(*p) = 39
+
+
+Before quadratic key = 8199 got value = 39
+1.before put QuadraticProbingHash.collisions = 14
+2.after put QuadraticProbingHash.collisions = 14
+3.after get QuadraticProbingHash.collisions = 14
+After quadratic key = 8199 got value(*pq) = 39
+
+
+Before double hashing key = 8199 got value = 39
+1.before put DoubleHashingProbingHash.collisions = 8
+2.after put DoubleHashingProbingHash.collisions = 8
+3.after get DoubleHashingProbingHash.collisions = 8
+After double hashing key = 8199 got value(*pdh) = 39
+
+
+Before linear key = 8141 got value = 40
+1.before put LinearProbingHash.collisions = 16
+2.after put LinearProbingHash.collisions = 17
+3.after get LinearProbingHash.collisions = 18
+After linear key = 8141 got value(*p) = 40
+
+
+Before quadratic key = 8141 got value = 40
+1.before put QuadraticProbingHash.collisions = 14
+2.after put QuadraticProbingHash.collisions = 15
+3.after get QuadraticProbingHash.collisions = 16
+After quadratic key = 8141 got value(*pq) = 40
+
+
+Before double hashing key = 8141 got value = 40
+1.before put DoubleHashingProbingHash.collisions = 8
+2.after put DoubleHashingProbingHash.collisions = 9
+3.after get DoubleHashingProbingHash.collisions = 10
+After double hashing key = 8141 got value(*pdh) = 40
+
+
+Before linear key = 8122 got value = 41
+1.before put LinearProbingHash.collisions = 18
+2.after put LinearProbingHash.collisions = 18
+3.after get LinearProbingHash.collisions = 18
+After linear key = 8122 got value(*p) = 41
+
+
+Before quadratic key = 8122 got value = 41
+1.before put QuadraticProbingHash.collisions = 16
+2.after put QuadraticProbingHash.collisions = 16
+3.after get QuadraticProbingHash.collisions = 16
+After quadratic key = 8122 got value(*pq) = 41
+
+
+Before double hashing key = 8122 got value = 41
+1.before put DoubleHashingProbingHash.collisions = 10
+2.after put DoubleHashingProbingHash.collisions = 10
+3.after get DoubleHashingProbingHash.collisions = 10
+After double hashing key = 8122 got value(*pdh) = 41
+
+
+Before linear key = 8036 got value = 42
+1.before put LinearProbingHash.collisions = 18
+2.after put LinearProbingHash.collisions = 18
+3.after get LinearProbingHash.collisions = 18
+After linear key = 8036 got value(*p) = 42
+
+
+Before quadratic key = 8036 got value = 42
+1.before put QuadraticProbingHash.collisions = 16
+2.after put QuadraticProbingHash.collisions = 16
+3.after get QuadraticProbingHash.collisions = 16
+After quadratic key = 8036 got value(*pq) = 42
+
+
+Before double hashing key = 8036 got value = 42
+1.before put DoubleHashingProbingHash.collisions = 10
+2.after put DoubleHashingProbingHash.collisions = 10
+3.after get DoubleHashingProbingHash.collisions = 10
+After double hashing key = 8036 got value(*pdh) = 42
+
+
+Before linear key = 7937 got value = 43
+1.before put LinearProbingHash.collisions = 18
+2.after put LinearProbingHash.collisions = 18
+3.after get LinearProbingHash.collisions = 18
+After linear key = 7937 got value(*p) = 43
+
+
+Before quadratic key = 7937 got value = 43
+1.before put QuadraticProbingHash.collisions = 16
+2.after put QuadraticProbingHash.collisions = 16
+3.after get QuadraticProbingHash.collisions = 16
+After quadratic key = 7937 got value(*pq) = 43
+
+
+Before double hashing key = 7937 got value = 43
+1.before put DoubleHashingProbingHash.collisions = 10
+2.after put DoubleHashingProbingHash.collisions = 10
+3.after get DoubleHashingProbingHash.collisions = 10
+After double hashing key = 7937 got value(*pdh) = 43
+
+
+Before linear key = 7921 got value = 44
+1.before put LinearProbingHash.collisions = 18
+2.after put LinearProbingHash.collisions = 18
+3.after get LinearProbingHash.collisions = 18
+After linear key = 7921 got value(*p) = 44
+
+
+Before quadratic key = 7921 got value = 44
+1.before put QuadraticProbingHash.collisions = 16
+2.after put QuadraticProbingHash.collisions = 17
+3.after get QuadraticProbingHash.collisions = 18
+After quadratic key = 7921 got value(*pq) = 44
+
+
+Before double hashing key = 7921 got value = 44
+1.before put DoubleHashingProbingHash.collisions = 10
+2.after put DoubleHashingProbingHash.collisions = 10
+3.after get DoubleHashingProbingHash.collisions = 10
+After double hashing key = 7921 got value(*pdh) = 44
+
+
+Before linear key = 7881 got value = 45
+1.before put LinearProbingHash.collisions = 18
+2.after put LinearProbingHash.collisions = 18
+3.after get LinearProbingHash.collisions = 18
+After linear key = 7881 got value(*p) = 45
+
+
+Before quadratic key = 7881 got value = 45
+1.before put QuadraticProbingHash.collisions = 18
+2.after put QuadraticProbingHash.collisions = 18
+3.after get QuadraticProbingHash.collisions = 18
+After quadratic key = 7881 got value(*pq) = 45
+
+
+Before double hashing key = 7881 got value = 45
+1.before put DoubleHashingProbingHash.collisions = 10
+2.after put DoubleHashingProbingHash.collisions = 10
+3.after get DoubleHashingProbingHash.collisions = 10
+After double hashing key = 7881 got value(*pdh) = 45
+
+
+Before linear key = 7781 got value = 46
+1.before put LinearProbingHash.collisions = 18
+2.after put LinearProbingHash.collisions = 19
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7781 got value(*p) = 46
+
+
+Before quadratic key = 7781 got value = 46
+1.before put QuadraticProbingHash.collisions = 18
+2.after put QuadraticProbingHash.collisions = 19
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7781 got value(*pq) = 46
+
+
+Before double hashing key = 7781 got value = 46
+1.before put DoubleHashingProbingHash.collisions = 10
+2.after put DoubleHashingProbingHash.collisions = 11
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7781 got value(*pdh) = 46
+
+
+Before linear key = 7706 got value = 47
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 20
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7706 got value(*p) = 47
+
+
+Before quadratic key = 7706 got value = 47
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 20
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7706 got value(*pq) = 47
+
+
+Before double hashing key = 7706 got value = 47
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 12
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7706 got value(*pdh) = 47
+
+
+Before linear key = 7607 got value = 48
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 20
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7607 got value(*p) = 48
+
+
+Before quadratic key = 7607 got value = 48
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 20
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7607 got value(*pq) = 48
+
+
+Before double hashing key = 7607 got value = 48
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 12
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7607 got value(*pdh) = 48
+
+
+Before linear key = 7588 got value = 49
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 20
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7588 got value(*p) = 49
+
+
+Before quadratic key = 7588 got value = 49
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 20
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7588 got value(*pq) = 49
+
+
+Before double hashing key = 7588 got value = 49
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 12
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7588 got value(*pdh) = 49
+
+
+Before linear key = 7531 got value = 50
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 20
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7531 got value(*p) = 50
+
+
+Before quadratic key = 7531 got value = 50
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 20
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7531 got value(*pq) = 50
+
+
+Before double hashing key = 7531 got value = 50
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 12
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7531 got value(*pdh) = 50
+
+
+Before linear key = 7520 got value = 51
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 20
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7520 got value(*p) = 51
+
+
+Before quadratic key = 7520 got value = 51
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 20
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7520 got value(*pq) = 51
+
+
+Before double hashing key = 7520 got value = 51
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 12
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7520 got value(*pdh) = 51
+
+
+Before linear key = 7428 got value = 52
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 20
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7428 got value(*p) = 52
+
+
+Before quadratic key = 7428 got value = 52
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 20
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7428 got value(*pq) = 52
+
+
+Before double hashing key = 7428 got value = 52
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 12
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7428 got value(*pdh) = 52
+
+
+Before linear key = 7363 got value = 53
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 20
+3.after get LinearProbingHash.collisions = 20
+After linear key = 7363 got value(*p) = 53
+
+
+Before quadratic key = 7363 got value = 53
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 20
+3.after get QuadraticProbingHash.collisions = 20
+After quadratic key = 7363 got value(*pq) = 53
+
+
+Before double hashing key = 7363 got value = 53
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 12
+3.after get DoubleHashingProbingHash.collisions = 12
+After double hashing key = 7363 got value(*pdh) = 53
+
+
+Before linear key = 7329 got value = 54
+1.before put LinearProbingHash.collisions = 20
+2.after put LinearProbingHash.collisions = 21
+3.after get LinearProbingHash.collisions = 22
+After linear key = 7329 got value(*p) = 54
+
+
+Before quadratic key = 7329 got value = 54
+1.before put QuadraticProbingHash.collisions = 20
+2.after put QuadraticProbingHash.collisions = 21
+3.after get QuadraticProbingHash.collisions = 22
+After quadratic key = 7329 got value(*pq) = 54
+
+
+Before double hashing key = 7329 got value = 54
+1.before put DoubleHashingProbingHash.collisions = 12
+2.after put DoubleHashingProbingHash.collisions = 14
+3.after get DoubleHashingProbingHash.collisions = 16
+After double hashing key = 7329 got value(*pdh) = 54
+
+
+Before linear key = 7288 got value = 55
+1.before put LinearProbingHash.collisions = 22
+2.after put LinearProbingHash.collisions = 23
+3.after get LinearProbingHash.collisions = 24
+After linear key = 7288 got value(*p) = 55
+
+
+Before quadratic key = 7288 got value = 55
+1.before put QuadraticProbingHash.collisions = 22
+2.after put QuadraticProbingHash.collisions = 23
+3.after get QuadraticProbingHash.collisions = 24
+After quadratic key = 7288 got value(*pq) = 55
+
+
+Before double hashing key = 7288 got value = 55
+1.before put DoubleHashingProbingHash.collisions = 16
+2.after put DoubleHashingProbingHash.collisions = 19
+3.after get DoubleHashingProbingHash.collisions = 22
+After double hashing key = 7288 got value(*pdh) = 55
+
+
+Before linear key = 7269 got value = 56
+1.before put LinearProbingHash.collisions = 24
+2.after put LinearProbingHash.collisions = 24
+3.after get LinearProbingHash.collisions = 24
+After linear key = 7269 got value(*p) = 56
+
+
+Before quadratic key = 7269 got value = 56
+1.before put QuadraticProbingHash.collisions = 24
+2.after put QuadraticProbingHash.collisions = 24
+3.after get QuadraticProbingHash.collisions = 24
+After quadratic key = 7269 got value(*pq) = 56
+
+
+Before double hashing key = 7269 got value = 56
+1.before put DoubleHashingProbingHash.collisions = 22
+2.after put DoubleHashingProbingHash.collisions = 22
+3.after get DoubleHashingProbingHash.collisions = 22
+After double hashing key = 7269 got value(*pdh) = 56
+
+
+Before linear key = 7181 got value = 57
+1.before put LinearProbingHash.collisions = 24
+2.after put LinearProbingHash.collisions = 25
+3.after get LinearProbingHash.collisions = 26
+After linear key = 7181 got value(*p) = 57
+
+
+Before quadratic key = 7181 got value = 57
+1.before put QuadraticProbingHash.collisions = 24
+2.after put QuadraticProbingHash.collisions = 25
+3.after get QuadraticProbingHash.collisions = 26
+After quadratic key = 7181 got value(*pq) = 57
+
+
+Before double hashing key = 7181 got value = 57
+1.before put DoubleHashingProbingHash.collisions = 22
+2.after put DoubleHashingProbingHash.collisions = 23
+3.after get DoubleHashingProbingHash.collisions = 24
+After double hashing key = 7181 got value(*pdh) = 57
+
+
+Before linear key = 7137 got value = 58
+1.before put LinearProbingHash.collisions = 26
+2.after put LinearProbingHash.collisions = 29
+3.after get LinearProbingHash.collisions = 32
+After linear key = 7137 got value(*p) = 58
+
+
+Before quadratic key = 7137 got value = 58
+1.before put QuadraticProbingHash.collisions = 26
+2.after put QuadraticProbingHash.collisions = 28
+3.after get QuadraticProbingHash.collisions = 30
+After quadratic key = 7137 got value(*pq) = 58
+
+
+Before double hashing key = 7137 got value = 58
+1.before put DoubleHashingProbingHash.collisions = 24
+2.after put DoubleHashingProbingHash.collisions = 26
+3.after get DoubleHashingProbingHash.collisions = 28
+After double hashing key = 7137 got value(*pdh) = 58
+
+
+Before linear key = 7101 got value = 59
+1.before put LinearProbingHash.collisions = 32
+2.after put LinearProbingHash.collisions = 32
+3.after get LinearProbingHash.collisions = 32
+After linear key = 7101 got value(*p) = 59
+
+
+Before quadratic key = 7101 got value = 59
+1.before put QuadraticProbingHash.collisions = 30
+2.after put QuadraticProbingHash.collisions = 30
+3.after get QuadraticProbingHash.collisions = 30
+After quadratic key = 7101 got value(*pq) = 59
+
+
+Before double hashing key = 7101 got value = 59
+1.before put DoubleHashingProbingHash.collisions = 28
+2.after put DoubleHashingProbingHash.collisions = 28
+3.after get DoubleHashingProbingHash.collisions = 28
+After double hashing key = 7101 got value(*pdh) = 59
+
+
+Before linear key = 7071 got value = 60
+1.before put LinearProbingHash.collisions = 32
+2.after put LinearProbingHash.collisions = 34
+3.after get LinearProbingHash.collisions = 36
+After linear key = 7071 got value(*p) = 60
+
+
+Before quadratic key = 7071 got value = 60
+1.before put QuadraticProbingHash.collisions = 30
+2.after put QuadraticProbingHash.collisions = 32
+3.after get QuadraticProbingHash.collisions = 34
+After quadratic key = 7071 got value(*pq) = 60
+
+
+Before double hashing key = 7071 got value = 60
+1.before put DoubleHashingProbingHash.collisions = 28
+2.after put DoubleHashingProbingHash.collisions = 30
+3.after get DoubleHashingProbingHash.collisions = 32
+After double hashing key = 7071 got value(*pdh) = 60
+
+
+Before linear key = 7017 got value = 61
+1.before put LinearProbingHash.collisions = 36
+2.after put LinearProbingHash.collisions = 38
+3.after get LinearProbingHash.collisions = 40
+After linear key = 7017 got value(*p) = 61
+
+
+Before quadratic key = 7017 got value = 61
+1.before put QuadraticProbingHash.collisions = 34
+2.after put QuadraticProbingHash.collisions = 36
+3.after get QuadraticProbingHash.collisions = 38
+After quadratic key = 7017 got value(*pq) = 61
+
+
+Before double hashing key = 7017 got value = 61
+1.before put DoubleHashingProbingHash.collisions = 32
+2.after put DoubleHashingProbingHash.collisions = 35
+3.after get DoubleHashingProbingHash.collisions = 38
+After double hashing key = 7017 got value(*pdh) = 61
+
+
+Before linear key = 6967 got value = 62
+1.before put LinearProbingHash.collisions = 40
+2.after put LinearProbingHash.collisions = 40
+3.after get LinearProbingHash.collisions = 40
+After linear key = 6967 got value(*p) = 62
+
+
+Before quadratic key = 6967 got value = 62
+1.before put QuadraticProbingHash.collisions = 38
+2.after put QuadraticProbingHash.collisions = 39
+3.after get QuadraticProbingHash.collisions = 40
+After quadratic key = 6967 got value(*pq) = 62
+
+
+Before double hashing key = 6967 got value = 62
+1.before put DoubleHashingProbingHash.collisions = 38
+2.after put DoubleHashingProbingHash.collisions = 38
+3.after get DoubleHashingProbingHash.collisions = 38
+After double hashing key = 6967 got value(*pdh) = 62
+
+
+Before linear key = 6911 got value = 63
+1.before put LinearProbingHash.collisions = 40
+2.after put LinearProbingHash.collisions = 40
+3.after get LinearProbingHash.collisions = 40
+After linear key = 6911 got value(*p) = 63
+
+
+Before quadratic key = 6911 got value = 63
+1.before put QuadraticProbingHash.collisions = 40
+2.after put QuadraticProbingHash.collisions = 40
+3.after get QuadraticProbingHash.collisions = 40
+After quadratic key = 6911 got value(*pq) = 63
+
+
+Before double hashing key = 6911 got value = 63
+1.before put DoubleHashingProbingHash.collisions = 38
+2.after put DoubleHashingProbingHash.collisions = 38
+3.after get DoubleHashingProbingHash.collisions = 38
+After double hashing key = 6911 got value(*pdh) = 63
+
+
+Before linear key = 6829 got value = 64
+1.before put LinearProbingHash.collisions = 40
+2.after put LinearProbingHash.collisions = 40
+3.after get LinearProbingHash.collisions = 40
+After linear key = 6829 got value(*p) = 64
+
+
+Before quadratic key = 6829 got value = 64
+1.before put QuadraticProbingHash.collisions = 40
+2.after put QuadraticProbingHash.collisions = 40
+3.after get QuadraticProbingHash.collisions = 40
+After quadratic key = 6829 got value(*pq) = 64
+
+
+Before double hashing key = 6829 got value = 64
+1.before put DoubleHashingProbingHash.collisions = 38
+2.after put DoubleHashingProbingHash.collisions = 38
+3.after get DoubleHashingProbingHash.collisions = 38
+After double hashing key = 6829 got value(*pdh) = 64
+
+
+Before linear key = 6735 got value = 65
+1.before put LinearProbingHash.collisions = 40
+2.after put LinearProbingHash.collisions = 41
+3.after get LinearProbingHash.collisions = 42
+After linear key = 6735 got value(*p) = 65
+
+
+Before quadratic key = 6735 got value = 65
+1.before put QuadraticProbingHash.collisions = 40
+2.after put QuadraticProbingHash.collisions = 41
+3.after get QuadraticProbingHash.collisions = 42
+After quadratic key = 6735 got value(*pq) = 65
+
+
+Before double hashing key = 6735 got value = 65
+1.before put DoubleHashingProbingHash.collisions = 38
+2.after put DoubleHashingProbingHash.collisions = 39
+3.after get DoubleHashingProbingHash.collisions = 40
+After double hashing key = 6735 got value(*pdh) = 65
+
+
+Before linear key = 6640 got value = 66
+1.before put LinearProbingHash.collisions = 42
+2.after put LinearProbingHash.collisions = 42
+3.after get LinearProbingHash.collisions = 42
+After linear key = 6640 got value(*p) = 66
+
+
+Before quadratic key = 6640 got value = 66
+1.before put QuadraticProbingHash.collisions = 42
+2.after put QuadraticProbingHash.collisions = 42
+3.after get QuadraticProbingHash.collisions = 42
+After quadratic key = 6640 got value(*pq) = 66
+
+
+Before double hashing key = 6640 got value = 66
+1.before put DoubleHashingProbingHash.collisions = 40
+2.after put DoubleHashingProbingHash.collisions = 40
+3.after get DoubleHashingProbingHash.collisions = 40
+After double hashing key = 6640 got value(*pdh) = 66
+
+
+Before linear key = 6629 got value = 67
+1.before put LinearProbingHash.collisions = 42
+2.after put LinearProbingHash.collisions = 42
+3.after get LinearProbingHash.collisions = 42
+After linear key = 6629 got value(*p) = 67
+
+
+Before quadratic key = 6629 got value = 67
+1.before put QuadraticProbingHash.collisions = 42
+2.after put QuadraticProbingHash.collisions = 42
+3.after get QuadraticProbingHash.collisions = 42
+After quadratic key = 6629 got value(*pq) = 67
+
+
+Before double hashing key = 6629 got value = 67
+1.before put DoubleHashingProbingHash.collisions = 40
+2.after put DoubleHashingProbingHash.collisions = 40
+3.after get DoubleHashingProbingHash.collisions = 40
+After double hashing key = 6629 got value(*pdh) = 67
+
+
+Before linear key = 6613 got value = 68
+1.before put LinearProbingHash.collisions = 42
+2.after put LinearProbingHash.collisions = 44
+3.after get LinearProbingHash.collisions = 46
+After linear key = 6613 got value(*p) = 68
+
+
+Before quadratic key = 6613 got value = 68
+1.before put QuadraticProbingHash.collisions = 42
+2.after put QuadraticProbingHash.collisions = 44
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6613 got value(*pq) = 68
+
+
+Before double hashing key = 6613 got value = 68
+1.before put DoubleHashingProbingHash.collisions = 40
+2.after put DoubleHashingProbingHash.collisions = 42
+3.after get DoubleHashingProbingHash.collisions = 44
+After double hashing key = 6613 got value(*pdh) = 68
+
+
+Before linear key = 6591 got value = 69
+1.before put LinearProbingHash.collisions = 46
+2.after put LinearProbingHash.collisions = 46
+3.after get LinearProbingHash.collisions = 46
+After linear key = 6591 got value(*p) = 69
+
+
+Before quadratic key = 6591 got value = 69
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6591 got value(*pq) = 69
+
+
+Before double hashing key = 6591 got value = 69
+1.before put DoubleHashingProbingHash.collisions = 44
+2.after put DoubleHashingProbingHash.collisions = 44
+3.after get DoubleHashingProbingHash.collisions = 44
+After double hashing key = 6591 got value(*pdh) = 69
+
+
+Before linear key = 6550 got value = 70
+1.before put LinearProbingHash.collisions = 46
+2.after put LinearProbingHash.collisions = 46
+3.after get LinearProbingHash.collisions = 46
+After linear key = 6550 got value(*p) = 70
+
+
+Before quadratic key = 6550 got value = 70
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6550 got value(*pq) = 70
+
+
+Before double hashing key = 6550 got value = 70
+1.before put DoubleHashingProbingHash.collisions = 44
+2.after put DoubleHashingProbingHash.collisions = 44
+3.after get DoubleHashingProbingHash.collisions = 44
+After double hashing key = 6550 got value(*pdh) = 70
+
+
+Before linear key = 6483 got value = 71
+1.before put LinearProbingHash.collisions = 46
+2.after put LinearProbingHash.collisions = 46
+3.after get LinearProbingHash.collisions = 46
+After linear key = 6483 got value(*p) = 71
+
+
+Before quadratic key = 6483 got value = 71
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6483 got value(*pq) = 71
+
+
+Before double hashing key = 6483 got value = 71
+1.before put DoubleHashingProbingHash.collisions = 44
+2.after put DoubleHashingProbingHash.collisions = 44
+3.after get DoubleHashingProbingHash.collisions = 44
+After double hashing key = 6483 got value(*pdh) = 71
+
+
+Before linear key = 6427 got value = 72
+1.before put LinearProbingHash.collisions = 46
+2.after put LinearProbingHash.collisions = 46
+3.after get LinearProbingHash.collisions = 46
+After linear key = 6427 got value(*p) = 72
+
+
+Before quadratic key = 6427 got value = 72
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6427 got value(*pq) = 72
+
+
+Before double hashing key = 6427 got value = 72
+1.before put DoubleHashingProbingHash.collisions = 44
+2.after put DoubleHashingProbingHash.collisions = 44
+3.after get DoubleHashingProbingHash.collisions = 44
+After double hashing key = 6427 got value(*pdh) = 72
+
+
+Before linear key = 6348 got value = 73
+1.before put LinearProbingHash.collisions = 46
+2.after put LinearProbingHash.collisions = 46
+3.after get LinearProbingHash.collisions = 46
+After linear key = 6348 got value(*p) = 73
+
+
+Before quadratic key = 6348 got value = 73
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6348 got value(*pq) = 73
+
+
+Before double hashing key = 6348 got value = 73
+1.before put DoubleHashingProbingHash.collisions = 44
+2.after put DoubleHashingProbingHash.collisions = 44
+3.after get DoubleHashingProbingHash.collisions = 44
+After double hashing key = 6348 got value(*pdh) = 73
+
+
+Before linear key = 6324 got value = 74
+1.before put LinearProbingHash.collisions = 46
+2.after put LinearProbingHash.collisions = 46
+3.after get LinearProbingHash.collisions = 46
+After linear key = 6324 got value(*p) = 74
+
+
+Before quadratic key = 6324 got value = 74
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6324 got value(*pq) = 74
+
+
+Before double hashing key = 6324 got value = 74
+1.before put DoubleHashingProbingHash.collisions = 44
+2.after put DoubleHashingProbingHash.collisions = 44
+3.after get DoubleHashingProbingHash.collisions = 44
+After double hashing key = 6324 got value(*pdh) = 74
+
+
+Before linear key = 6255 got value = 75
+1.before put LinearProbingHash.collisions = 46
+2.after put LinearProbingHash.collisions = 48
+3.after get LinearProbingHash.collisions = 50
+After linear key = 6255 got value(*p) = 75
+
+
+Before quadratic key = 6255 got value = 75
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6255 got value(*pq) = 75
+
+
+Before double hashing key = 6255 got value = 75
+1.before put DoubleHashingProbingHash.collisions = 44
+2.after put DoubleHashingProbingHash.collisions = 45
+3.after get DoubleHashingProbingHash.collisions = 46
+After double hashing key = 6255 got value(*pdh) = 75
+
+
+Before linear key = 6242 got value = 76
+1.before put LinearProbingHash.collisions = 50
+2.after put LinearProbingHash.collisions = 51
+3.after get LinearProbingHash.collisions = 52
+After linear key = 6242 got value(*p) = 76
+
+
+Before quadratic key = 6242 got value = 76
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 46
+3.after get QuadraticProbingHash.collisions = 46
+After quadratic key = 6242 got value(*pq) = 76
+
+
+Before double hashing key = 6242 got value = 76
+1.before put DoubleHashingProbingHash.collisions = 46
+2.after put DoubleHashingProbingHash.collisions = 46
+3.after get DoubleHashingProbingHash.collisions = 46
+After double hashing key = 6242 got value(*pdh) = 76
+
+
+Before linear key = 6204 got value = 77
+1.before put LinearProbingHash.collisions = 52
+2.after put LinearProbingHash.collisions = 52
+3.after get LinearProbingHash.collisions = 52
+After linear key = 6204 got value(*p) = 77
+
+
+Before quadratic key = 6204 got value = 77
+1.before put QuadraticProbingHash.collisions = 46
+2.after put QuadraticProbingHash.collisions = 47
+3.after get QuadraticProbingHash.collisions = 48
+After quadratic key = 6204 got value(*pq) = 77
+
+
+Before double hashing key = 6204 got value = 77
+1.before put DoubleHashingProbingHash.collisions = 46
+2.after put DoubleHashingProbingHash.collisions = 46
+3.after get DoubleHashingProbingHash.collisions = 46
+After double hashing key = 6204 got value(*pdh) = 77
+
+
+Before linear key = 6190 got value = 78
+1.before put LinearProbingHash.collisions = 52
+2.after put LinearProbingHash.collisions = 52
+3.after get LinearProbingHash.collisions = 52
+After linear key = 6190 got value(*p) = 78
+
+
+Before quadratic key = 6190 got value = 78
+1.before put QuadraticProbingHash.collisions = 48
+2.after put QuadraticProbingHash.collisions = 48
+3.after get QuadraticProbingHash.collisions = 48
+After quadratic key = 6190 got value(*pq) = 78
+
+
+Before double hashing key = 6190 got value = 78
+1.before put DoubleHashingProbingHash.collisions = 46
+2.after put DoubleHashingProbingHash.collisions = 46
+3.after get DoubleHashingProbingHash.collisions = 46
+After double hashing key = 6190 got value(*pdh) = 78
+
+
+Before linear key = 6094 got value = 79
+1.before put LinearProbingHash.collisions = 52
+2.after put LinearProbingHash.collisions = 52
+3.after get LinearProbingHash.collisions = 52
+After linear key = 6094 got value(*p) = 79
+
+
+Before quadratic key = 6094 got value = 79
+1.before put QuadraticProbingHash.collisions = 48
+2.after put QuadraticProbingHash.collisions = 48
+3.after get QuadraticProbingHash.collisions = 48
+After quadratic key = 6094 got value(*pq) = 79
+
+
+Before double hashing key = 6094 got value = 79
+1.before put DoubleHashingProbingHash.collisions = 46
+2.after put DoubleHashingProbingHash.collisions = 47
+3.after get DoubleHashingProbingHash.collisions = 48
+After double hashing key = 6094 got value(*pdh) = 79
+
+
+Before linear key = 6030 got value = 80
+1.before put LinearProbingHash.collisions = 52
+2.after put LinearProbingHash.collisions = 52
+3.after get LinearProbingHash.collisions = 52
+After linear key = 6030 got value(*p) = 80
+
+
+Before quadratic key = 6030 got value = 80
+1.before put QuadraticProbingHash.collisions = 48
+2.after put QuadraticProbingHash.collisions = 48
+3.after get QuadraticProbingHash.collisions = 48
+After quadratic key = 6030 got value(*pq) = 80
+
+
+Before double hashing key = 6030 got value = 80
+1.before put DoubleHashingProbingHash.collisions = 48
+2.after put DoubleHashingProbingHash.collisions = 48
+3.after get DoubleHashingProbingHash.collisions = 48
+After double hashing key = 6030 got value(*pdh) = 80
+
+
+Before linear key = 6029 got value = 81
+1.before put LinearProbingHash.collisions = 52
+2.after put LinearProbingHash.collisions = 52
+3.after get LinearProbingHash.collisions = 52
+After linear key = 6029 got value(*p) = 81
+
+
+Before quadratic key = 6029 got value = 81
+1.before put QuadraticProbingHash.collisions = 48
+2.after put QuadraticProbingHash.collisions = 48
+3.after get QuadraticProbingHash.collisions = 48
+After quadratic key = 6029 got value(*pq) = 81
+
+
+Before double hashing key = 6029 got value = 81
+1.before put DoubleHashingProbingHash.collisions = 48
+2.after put DoubleHashingProbingHash.collisions = 48
+3.after get DoubleHashingProbingHash.collisions = 48
+After double hashing key = 6029 got value(*pdh) = 81
+
+
+Before linear key = 6028 got value = 82
+1.before put LinearProbingHash.collisions = 52
+2.after put LinearProbingHash.collisions = 55
+3.after get LinearProbingHash.collisions = 58
+After linear key = 6028 got value(*p) = 82
+
+
+Before quadratic key = 6028 got value = 82
+1.before put QuadraticProbingHash.collisions = 48
+2.after put QuadraticProbingHash.collisions = 50
+3.after get QuadraticProbingHash.collisions = 52
+After quadratic key = 6028 got value(*pq) = 82
+
+
+Before double hashing key = 6028 got value = 82
+1.before put DoubleHashingProbingHash.collisions = 48
+2.after put DoubleHashingProbingHash.collisions = 50
+3.after get DoubleHashingProbingHash.collisions = 52
+After double hashing key = 6028 got value(*pdh) = 82
+
+
+Before linear key = 5931 got value = 83
+1.before put LinearProbingHash.collisions = 58
+2.after put LinearProbingHash.collisions = 58
+3.after get LinearProbingHash.collisions = 58
+After linear key = 5931 got value(*p) = 83
+
+
+Before quadratic key = 5931 got value = 83
+1.before put QuadraticProbingHash.collisions = 52
+2.after put QuadraticProbingHash.collisions = 52
+3.after get QuadraticProbingHash.collisions = 52
+After quadratic key = 5931 got value(*pq) = 83
+
+
+Before double hashing key = 5931 got value = 83
+1.before put DoubleHashingProbingHash.collisions = 52
+2.after put DoubleHashingProbingHash.collisions = 52
+3.after get DoubleHashingProbingHash.collisions = 52
+After double hashing key = 5931 got value(*pdh) = 83
+
+
+Before linear key = 5896 got value = 84
+1.before put LinearProbingHash.collisions = 58
+2.after put LinearProbingHash.collisions = 58
+3.after get LinearProbingHash.collisions = 58
+After linear key = 5896 got value(*p) = 84
+
+
+Before quadratic key = 5896 got value = 84
+1.before put QuadraticProbingHash.collisions = 52
+2.after put QuadraticProbingHash.collisions = 52
+3.after get QuadraticProbingHash.collisions = 52
+After quadratic key = 5896 got value(*pq) = 84
+
+
+Before double hashing key = 5896 got value = 84
+1.before put DoubleHashingProbingHash.collisions = 52
+2.after put DoubleHashingProbingHash.collisions = 52
+3.after get DoubleHashingProbingHash.collisions = 52
+After double hashing key = 5896 got value(*pdh) = 84
+
+
+Before linear key = 5893 got value = 85
+1.before put LinearProbingHash.collisions = 58
+2.after put LinearProbingHash.collisions = 60
+3.after get LinearProbingHash.collisions = 62
+After linear key = 5893 got value(*p) = 85
+
+
+Before quadratic key = 5893 got value = 85
+1.before put QuadraticProbingHash.collisions = 52
+2.after put QuadraticProbingHash.collisions = 55
+3.after get QuadraticProbingHash.collisions = 58
+After quadratic key = 5893 got value(*pq) = 85
+
+
+Before double hashing key = 5893 got value = 85
+1.before put DoubleHashingProbingHash.collisions = 52
+2.after put DoubleHashingProbingHash.collisions = 53
+3.after get DoubleHashingProbingHash.collisions = 54
+After double hashing key = 5893 got value(*pdh) = 85
+
+
+Before linear key = 5872 got value = 86
+1.before put LinearProbingHash.collisions = 62
+2.after put LinearProbingHash.collisions = 67
+3.after get LinearProbingHash.collisions = 72
+After linear key = 5872 got value(*p) = 86
+
+
+Before quadratic key = 5872 got value = 86
+1.before put QuadraticProbingHash.collisions = 58
+2.after put QuadraticProbingHash.collisions = 61
+3.after get QuadraticProbingHash.collisions = 64
+After quadratic key = 5872 got value(*pq) = 86
+
+
+Before double hashing key = 5872 got value = 86
+1.before put DoubleHashingProbingHash.collisions = 54
+2.after put DoubleHashingProbingHash.collisions = 54
+3.after get DoubleHashingProbingHash.collisions = 54
+After double hashing key = 5872 got value(*pdh) = 86
+
+
+Before linear key = 5859 got value = 87
+1.before put LinearProbingHash.collisions = 72
+2.after put LinearProbingHash.collisions = 75
+3.after get LinearProbingHash.collisions = 78
+After linear key = 5859 got value(*p) = 87
+
+
+Before quadratic key = 5859 got value = 87
+1.before put QuadraticProbingHash.collisions = 64
+2.after put QuadraticProbingHash.collisions = 66
+3.after get QuadraticProbingHash.collisions = 68
+After quadratic key = 5859 got value(*pq) = 87
+
+
+Before double hashing key = 5859 got value = 87
+1.before put DoubleHashingProbingHash.collisions = 54
+2.after put DoubleHashingProbingHash.collisions = 57
+3.after get DoubleHashingProbingHash.collisions = 60
+After double hashing key = 5859 got value(*pdh) = 87
+
+
+Before linear key = 5759 got value = 88
+1.before put LinearProbingHash.collisions = 78
+2.after put LinearProbingHash.collisions = 78
+3.after get LinearProbingHash.collisions = 78
+After linear key = 5759 got value(*p) = 88
+
+
+Before quadratic key = 5759 got value = 88
+1.before put QuadraticProbingHash.collisions = 68
+2.after put QuadraticProbingHash.collisions = 68
+3.after get QuadraticProbingHash.collisions = 68
+After quadratic key = 5759 got value(*pq) = 88
+
+
+Before double hashing key = 5759 got value = 88
+1.before put DoubleHashingProbingHash.collisions = 60
+2.after put DoubleHashingProbingHash.collisions = 60
+3.after get DoubleHashingProbingHash.collisions = 60
+After double hashing key = 5759 got value(*pdh) = 88
+
+
+Before linear key = 5729 got value = 89
+1.before put LinearProbingHash.collisions = 78
+2.after put LinearProbingHash.collisions = 78
+3.after get LinearProbingHash.collisions = 78
+After linear key = 5729 got value(*p) = 89
+
+
+Before quadratic key = 5729 got value = 89
+1.before put QuadraticProbingHash.collisions = 68
+2.after put QuadraticProbingHash.collisions = 68
+3.after get QuadraticProbingHash.collisions = 68
+After quadratic key = 5729 got value(*pq) = 89
+
+
+Before double hashing key = 5729 got value = 89
+1.before put DoubleHashingProbingHash.collisions = 60
+2.after put DoubleHashingProbingHash.collisions = 60
+3.after get DoubleHashingProbingHash.collisions = 60
+After double hashing key = 5729 got value(*pdh) = 89
+
+
+Before linear key = 5694 got value = 90
+1.before put LinearProbingHash.collisions = 78
+2.after put LinearProbingHash.collisions = 79
+3.after get LinearProbingHash.collisions = 80
+After linear key = 5694 got value(*p) = 90
+
+
+Before quadratic key = 5694 got value = 90
+1.before put QuadraticProbingHash.collisions = 68
+2.after put QuadraticProbingHash.collisions = 69
+3.after get QuadraticProbingHash.collisions = 70
+After quadratic key = 5694 got value(*pq) = 90
+
+
+Before double hashing key = 5694 got value = 90
+1.before put DoubleHashingProbingHash.collisions = 60
+2.after put DoubleHashingProbingHash.collisions = 61
+3.after get DoubleHashingProbingHash.collisions = 62
+After double hashing key = 5694 got value(*pdh) = 90
+
+
+Before linear key = 5639 got value = 91
+1.before put LinearProbingHash.collisions = 80
+2.after put LinearProbingHash.collisions = 81
+3.after get LinearProbingHash.collisions = 82
+After linear key = 5639 got value(*p) = 91
+
+
+Before quadratic key = 5639 got value = 91
+1.before put QuadraticProbingHash.collisions = 70
+2.after put QuadraticProbingHash.collisions = 71
+3.after get QuadraticProbingHash.collisions = 72
+After quadratic key = 5639 got value(*pq) = 91
+
+
+Before double hashing key = 5639 got value = 91
+1.before put DoubleHashingProbingHash.collisions = 62
+2.after put DoubleHashingProbingHash.collisions = 64
+3.after get DoubleHashingProbingHash.collisions = 66
+After double hashing key = 5639 got value(*pdh) = 91
+
+
+Before linear key = 5630 got value = 92
+1.before put LinearProbingHash.collisions = 82
+2.after put LinearProbingHash.collisions = 84
+3.after get LinearProbingHash.collisions = 86
+After linear key = 5630 got value(*p) = 92
+
+
+Before quadratic key = 5630 got value = 92
+1.before put QuadraticProbingHash.collisions = 72
+2.after put QuadraticProbingHash.collisions = 74
+3.after get QuadraticProbingHash.collisions = 76
+After quadratic key = 5630 got value(*pq) = 92
+
+
+Before double hashing key = 5630 got value = 92
+1.before put DoubleHashingProbingHash.collisions = 66
+2.after put DoubleHashingProbingHash.collisions = 71
+3.after get DoubleHashingProbingHash.collisions = 76
+After double hashing key = 5630 got value(*pdh) = 92
+
+
+Before linear key = 5549 got value = 93
+1.before put LinearProbingHash.collisions = 86
+2.after put LinearProbingHash.collisions = 89
+3.after get LinearProbingHash.collisions = 92
+After linear key = 5549 got value(*p) = 93
+
+
+Before quadratic key = 5549 got value = 93
+1.before put QuadraticProbingHash.collisions = 76
+2.after put QuadraticProbingHash.collisions = 79
+3.after get QuadraticProbingHash.collisions = 82
+After quadratic key = 5549 got value(*pq) = 93
+
+
+Before double hashing key = 5549 got value = 93
+1.before put DoubleHashingProbingHash.collisions = 76
+2.after put DoubleHashingProbingHash.collisions = 77
+3.after get DoubleHashingProbingHash.collisions = 78
+After double hashing key = 5549 got value(*pdh) = 93
+
+
+Before linear key = 5540 got value = 94
+1.before put LinearProbingHash.collisions = 92
+2.after put LinearProbingHash.collisions = 92
+3.after get LinearProbingHash.collisions = 92
+After linear key = 5540 got value(*p) = 94
+
+
+Before quadratic key = 5540 got value = 94
+1.before put QuadraticProbingHash.collisions = 82
+2.after put QuadraticProbingHash.collisions = 82
+3.after get QuadraticProbingHash.collisions = 82
+After quadratic key = 5540 got value(*pq) = 94
+
+
+Before double hashing key = 5540 got value = 94
+1.before put DoubleHashingProbingHash.collisions = 78
+2.after put DoubleHashingProbingHash.collisions = 78
+3.after get DoubleHashingProbingHash.collisions = 78
+After double hashing key = 5540 got value(*pdh) = 94
+
+
+Before linear key = 5476 got value = 95
+1.before put LinearProbingHash.collisions = 92
+2.after put LinearProbingHash.collisions = 97
+3.after get LinearProbingHash.collisions = 102
+After linear key = 5476 got value(*p) = 95
+
+
+Before quadratic key = 5476 got value = 95
+1.before put QuadraticProbingHash.collisions = 82
+2.after put QuadraticProbingHash.collisions = 84
+3.after get QuadraticProbingHash.collisions = 86
+After quadratic key = 5476 got value(*pq) = 95
+
+
+Before double hashing key = 5476 got value = 95
+1.before put DoubleHashingProbingHash.collisions = 78
+2.after put DoubleHashingProbingHash.collisions = 80
+3.after get DoubleHashingProbingHash.collisions = 82
+After double hashing key = 5476 got value(*pdh) = 95
+
+
+Before linear key = 5474 got value = 96
+1.before put LinearProbingHash.collisions = 102
+2.after put LinearProbingHash.collisions = 102
+3.after get LinearProbingHash.collisions = 102
+After linear key = 5474 got value(*p) = 96
+
+
+Before quadratic key = 5474 got value = 96
+1.before put QuadraticProbingHash.collisions = 86
+2.after put QuadraticProbingHash.collisions = 86
+3.after get QuadraticProbingHash.collisions = 86
+After quadratic key = 5474 got value(*pq) = 96
+
+
+Before double hashing key = 5474 got value = 96
+1.before put DoubleHashingProbingHash.collisions = 82
+2.after put DoubleHashingProbingHash.collisions = 82
+3.after get DoubleHashingProbingHash.collisions = 82
+After double hashing key = 5474 got value(*pdh) = 96
+
+
+Before linear key = 5462 got value = 97
+1.before put LinearProbingHash.collisions = 102
+2.after put LinearProbingHash.collisions = 104
+3.after get LinearProbingHash.collisions = 106
+After linear key = 5462 got value(*p) = 97
+
+
+Before quadratic key = 5462 got value = 97
+1.before put QuadraticProbingHash.collisions = 86
+2.after put QuadraticProbingHash.collisions = 88
+3.after get QuadraticProbingHash.collisions = 90
+After quadratic key = 5462 got value(*pq) = 97
+
+
+Before double hashing key = 5462 got value = 97
+1.before put DoubleHashingProbingHash.collisions = 82
+2.after put DoubleHashingProbingHash.collisions = 85
+3.after get DoubleHashingProbingHash.collisions = 88
+After double hashing key = 5462 got value(*pdh) = 97
+
+
+Before linear key = 5377 got value = 98
+1.before put LinearProbingHash.collisions = 106
+2.after put LinearProbingHash.collisions = 109
+3.after get LinearProbingHash.collisions = 112
+After linear key = 5377 got value(*p) = 98
+
+
+Before quadratic key = 5377 got value = 98
+1.before put QuadraticProbingHash.collisions = 90
+2.after put QuadraticProbingHash.collisions = 92
+3.after get QuadraticProbingHash.collisions = 94
+After quadratic key = 5377 got value(*pq) = 98
+
+
+Before double hashing key = 5377 got value = 98
+1.before put DoubleHashingProbingHash.collisions = 88
+2.after put DoubleHashingProbingHash.collisions = 91
+3.after get DoubleHashingProbingHash.collisions = 94
+After double hashing key = 5377 got value(*pdh) = 98
+
+
+Before linear key = 5330 got value = 99
+1.before put LinearProbingHash.collisions = 112
+2.after put LinearProbingHash.collisions = 114
+3.after get LinearProbingHash.collisions = 116
+After linear key = 5330 got value(*p) = 99
+
+
+Before quadratic key = 5330 got value = 99
+1.before put QuadraticProbingHash.collisions = 94
+2.after put QuadraticProbingHash.collisions = 99
+3.after get QuadraticProbingHash.collisions = 104
+After quadratic key = 5330 got value(*pq) = 99
+
+
+Before double hashing key = 5330 got value = 99
+1.before put DoubleHashingProbingHash.collisions = 94
+2.after put DoubleHashingProbingHash.collisions = 98
+3.after get DoubleHashingProbingHash.collisions = 102
+After double hashing key = 5330 got value(*pdh) = 99
+
+
+Before linear key = 5253 got value = 100
+1.before put LinearProbingHash.collisions = 116
+2.after put LinearProbingHash.collisions = 116
+3.after get LinearProbingHash.collisions = 116
+After linear key = 5253 got value(*p) = 100
+
+
+Before quadratic key = 5253 got value = 100
+1.before put QuadraticProbingHash.collisions = 104
+2.after put QuadraticProbingHash.collisions = 104
+3.after get QuadraticProbingHash.collisions = 104
+After quadratic key = 5253 got value(*pq) = 100
+
+
+Before double hashing key = 5253 got value = 100
+1.before put DoubleHashingProbingHash.collisions = 102
+2.after put DoubleHashingProbingHash.collisions = 104
+3.after get DoubleHashingProbingHash.collisions = 106
+After double hashing key = 5253 got value(*pdh) = 100
+
+
